@@ -1,0 +1,56 @@
+﻿  T9PredictiveTextAlgorithm.cpp
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(13): error C2065: 'WordsTree': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(13): error C2146: syntax error: missing ';' before identifier 'emptyTree'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(13): error C2065: 'emptyTree': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(14): error C2065: 'Engine': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(14): error C2146: syntax error: missing ';' before identifier 't9Engine'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(14): error C2065: 'emptyTree': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(14): error C3861: 't9Engine': identifier not found
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(16): error C2065: 'Digits': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(16): error C2146: syntax error: missing ';' before identifier 'digits'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(16): error C2065: 'digits': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(18): error C2065: 't9Engine': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(18): error C2228: left of '.GetWordByDigits' must have class/struct/union
+  c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(18): note: type is 'unknown-type'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(18): error C2065: 'digits': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(20): error C3536: 'result': cannot be used before it is initialized
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(20): error C2228: left of '.size' must have class/struct/union
+  c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(20): note: type is 'int'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(25): error C2065: 'WordsTree': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(25): error C2146: syntax error: missing ';' before identifier 'knownWords'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(25): error C2065: 'knownWords': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(26): error C2065: 'knownWords': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(26): error C2228: left of '.AddWord' must have class/struct/union
+  c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(26): note: type is 'unknown-type'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(28): error C2065: 'Engine': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(28): error C2146: syntax error: missing ';' before identifier 't9Engine'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(28): error C2065: 'knownWords': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(28): error C3861: 't9Engine': identifier not found
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(30): error C2065: 'Digits': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(30): error C2146: syntax error: missing ';' before identifier 'digits'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(30): error C2065: 'digits': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(32): error C2065: 't9Engine': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(32): error C2228: left of '.GetWordsByDigits' must have class/struct/union
+  c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(32): note: type is 'unknown-type'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(32): error C2065: 'digits': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(34): error C3536: 'result': cannot be used before it is initialized
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(34): error C2109: subscript requires array or pointer type
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(37): error C2065: 'PassDigitsForHelloReturnCorrectString': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(39): error C2065: 'WordsTree': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(39): error C2146: syntax error: missing ';' before identifier 'emptyTree'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(39): error C2065: 'emptyTree': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(40): error C2065: 'Engine': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(40): error C2146: syntax error: missing ';' before identifier 't9Engine'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(40): error C2065: 'emptyTree': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(40): error C3861: 't9Engine': identifier not found
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(42): error C2065: 'Digits': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(42): error C2146: syntax error: missing ';' before identifier 'digits'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(42): error C2065: 'digits': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(43): error C2065: 't9Engine': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(43): error C2228: left of '.GetWordsByDigits' must have class/struct/union
+  c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(43): note: type is 'unknown-type'
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(43): error C2065: 'digits': undeclared identifier
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(45): error C2653: 'Assert': is not a class or namespace name
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(45): error C3536: 'result': cannot be used before it is initialized
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(45): error C2109: subscript requires array or pointer type
+c:\users\gvnwa\development-github\cpp-projects\t9predictivetextalgorithm\t9predictivetextalgorithm\t9predictivetextalgorithm.cpp(45): error C3861: 'AreEqual': identifier not found
